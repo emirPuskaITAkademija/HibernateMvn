@@ -10,5 +10,6 @@
         <property name="hibernate.connection.password">root</property>
         <property name="show_sql">true</property>
         <mapping resource="entity/Show.hbm.xml" class="ba.firma.entity.Show"/>
+        <mapping resource="entity/BankAccount.hbm.xml" class="ba.firma.entity.BankAccount"/>
     </session-factory>
 </hibernate-configuration>
