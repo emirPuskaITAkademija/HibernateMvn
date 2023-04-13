@@ -4,7 +4,7 @@ Hibernate ORM without JPA specification( XML based mapping)
 
 
 
-		ZADATAK 1:
+#ZADATAK 1:
 		 Hibernate 
 		 
 		 DB
