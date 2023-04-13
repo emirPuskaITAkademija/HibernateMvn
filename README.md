@@ -1,23 +1,19 @@
 # HibernateMvn
 Hibernate ORM without JPA specification( XML based mapping)
 
-# HibernateMvn
-Hibernate ORM without JPA specification( XML based mapping)
 
 
-
-
-#ZADATAK 1:
-		 Hibernate 
+# ZADATAK 1:
+## Hibernate 
 		 
-		 DB
+### DB
 		 sakila -> shows
 		 
-		 App
+### App
 		 HibernateMvn -> Show
 		 
 		 
-		 
+### Koraci
 		 1. depenendencies -> hibernate-core
 		 2. depenendencies -> mysql driver
 		 3. res -> hibernate.cfg.xml   DIJALEKT
